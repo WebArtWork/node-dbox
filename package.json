@@ -25,6 +25,7 @@
 		"mocha": "1.21.4",
 		"should": "4.0.4",
 		"prompt": "0.1.12"
+
 	},
 	"engines": {
 		"node": "*"
