@@ -1,3 +1,5 @@
+## We are stil working on this, it's not ready for users.
+
 # node-dbox
 
 A Node.JS convenience wrapper around the Dropbox API. Simplifies OAuth handshake and removes HTTP ceremony. This fork have different installation due to we are planning to use it under our modules, so we believe in that way we will control it better.
